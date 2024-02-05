@@ -32,7 +32,7 @@ for (const topickey in mytopics) {
 
   ihtml += `
     <div class="card " style="width: 18rem; margin:10px">
-      <img class="card-img-top" src="images/chemistry.jpeg" alt="Card image cap">
+      <img class="card-img-top" src="chemistry.jpeg" alt="Card image cap">
       <div class="card-body">
         <h5 class="card-title">${topic.name}</h5>
 
