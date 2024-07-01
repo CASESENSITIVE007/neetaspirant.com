@@ -43,6 +43,11 @@ section {
 footer{
     text-align: center;
 }
+.crouselme{
+    margin: 4px;
+    padding: 2px;
+
+}
 /* .navbar{
     position: absolute;
 } */
